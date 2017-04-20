@@ -4960,7 +4960,7 @@ a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #eee;
+  background-color: #F1E56C;
 }
 .jumbotron h1,
 .jumbotron .h1 {
@@ -5470,7 +5470,7 @@ button.list-group-item-danger.active:focus {
 .panel-title {
   margin-top: 0;
   margin-bottom: 0;
-  font-size: 16px;
+  font-size: 40px;
   color: inherit;
 }
 .panel-title > a,
